@@ -43,7 +43,6 @@
 <p>This project requires the following dependencies:</p>
 <ul class="list-disc pl-4 my-0">
 <li class="my-0"><strong>Programming Language:</strong> Python</li>
-<li class="my-0"><strong>Package Manager:</strong> Conda</li>
 </ul>
 <h3>Installation</h3>
 <p>Build pythonds11 from the source and install dependencies:</p>
@@ -57,9 +56,6 @@
 <p><strong>Navigate to the project directory:</strong></p>
 <pre><code class="language-sh">❯ cd pythonds11
 </code></pre>
-</li>
-<li class="my-0">
-<p><strong>Install the dependencies:</strong></p>
 </li>
 </ol>
 <p><strong>Using <a href="https://docs.conda.io/">conda</a>:</strong></p>
