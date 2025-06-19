@@ -45,3 +45,4 @@ print("-------zip------------")
 #     print(i)
 for i,j in zip(l,k):
     print(i,"--",j)
+    
