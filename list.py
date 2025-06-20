@@ -12,13 +12,12 @@ print(len(l))
 # slicing 
 print("-----")
 # ['hello', 34, 5.6, True, 23, 67, 9.9]
-
+ 
 # print(l)  #start,stop, step  [::]
 print(l[:])
 print(l[1:5])
 print(l[:5])
 print(l[2:])
-
 print(l[1:6:1])
 print(l[1:6:2])
 print(l[::-1])
