@@ -70,9 +70,6 @@ python {entrypoint}
 <h3>Testing</h3>
 <p>Pythonds11 uses the {<strong>test_framework</strong>} test framework. Run the test suite with:</p>
 <p><strong>Using <a href="https://docs.conda.io/">conda</a>:</strong></p>
-<pre><code class="language-sh">conda activate {venv}
-pytest
-</code></pre>
 <hr>
 <div align="left" class=""><a href="#top">⬆ Return</a></div>
 <hr></div></div></div>
